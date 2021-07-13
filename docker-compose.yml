@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+    delay_bot_vk:
+        build:
+            context: ""
+        container_name: delay_bot_vk
+        image: python
+        restart: always

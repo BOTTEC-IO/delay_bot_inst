@@ -1,0 +1,269 @@
+1623402635358	geckodriver	INFO	Listening on 127.0.0.1:57559
+1623402635360	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletvusHh"
+1623402635976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletvusHh/search.json.mozlz4", (void 0)))
+1623402637452	Marionette	INFO	Listening on port 39517
+1623402637482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623402642848	Marionette	INFO	Stopped listening on port 39517
+1623402714102	geckodriver	INFO	Listening on 127.0.0.1:48705
+1623402714110	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoS9lby"
+1623402714739	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoS9lby/search.json.mozlz4", (void 0)))
+1623402716161	Marionette	INFO	Listening on port 36547
+1623402716230	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623402755371	Marionette	INFO	Stopped listening on port 36547
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623402758290	geckodriver	INFO	Listening on 127.0.0.1:59713
+1623402758292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7acmwr"
+1623402758926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7acmwr/search.json.mozlz4", (void 0)))
+1623402760428	Marionette	INFO	Listening on port 34549
+1623402760513	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623402827146	geckodriver	INFO	Listening on 127.0.0.1:43595
+1623402827149	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegzKF1R"
+1623402827797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegzKF1R/search.json.mozlz4", (void 0)))
+1623402829310	Marionette	INFO	Listening on port 46209
+1623402829371	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623402943996	geckodriver	INFO	Listening on 127.0.0.1:37397
+1623402944007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegvqSpJ"
+1623402944644	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegvqSpJ/search.json.mozlz4", (void 0)))
+1623402946091	Marionette	INFO	Listening on port 33749
+1623402946129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623403029357	Marionette	INFO	Stopped listening on port 33749
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623403118590	geckodriver	INFO	Listening on 127.0.0.1:45947
+1623403118592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6IhVpk"
+1623403119186	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6IhVpk/search.json.mozlz4", (void 0)))
+1623403120580	Marionette	INFO	Listening on port 34091
+1623403120615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623403251533	Marionette	INFO	Stopped listening on port 34091
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623403435566	geckodriver	INFO	Listening on 127.0.0.1:59883
+1623403435576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles6MlTv"
+1623403436214	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles6MlTv/search.json.mozlz4", (void 0)))
+1623403437587	Marionette	INFO	Listening on port 43725
+1623403437701	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1623403610883	geckodriver	INFO	Listening on 127.0.0.1:45503
+1623403610889	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRkNGv4"
+1623403611539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRkNGv4/search.json.mozlz4", (void 0)))
+1623403612990	Marionette	INFO	Listening on port 42221
+1623403613024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623403751610	geckodriver	INFO	Listening on 127.0.0.1:44195
+1623403751620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileghNq3r"
+1623403752265	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileghNq3r/search.json.mozlz4", (void 0)))
+1623403753749	Marionette	INFO	Listening on port 43965
+1623403753841	Marionette	WARN	TLS certificate errors will be ignored for this session
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://www.instagram.com/static/bundles/es6/DirectMQTT.js/5a4f7fdf9100.js, line 17: Error: Publish Timed Out
+JavaScript error: https://www.instagram.com/static/bundles/es6/DirectMQTT.js/5a4f7fdf9100.js, line 17: Error: Publish Timed Out
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1142:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1367:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1090:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:623:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1142, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1142))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1142:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1367:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1090:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:623:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1142, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1142))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1142:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1367:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1090:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:623:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1142, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1142))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1142:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1367:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1090:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:623:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1142, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1142))
+JavaScript error: https://www.instagram.com/static/bundles/es6/ConsumerLibCommons.js/6a02c4cc9a29.js, line 64: AjaxError: 
+JavaScript error: , line 0: uncaught exception: Object
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1142:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1367:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1090:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:623:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1142, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1142))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1142:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1367:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1090:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:623:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1142, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1142))
+1623404477241	geckodriver	INFO	Listening on 127.0.0.1:60167
+1623404478238	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehSC39o"
+1623404478840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehSC39o/search.json.mozlz4", (void 0)))
+1623404480753	Marionette	INFO	Listening on port 34951
+1623404480859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623404482995	Marionette	INFO	Stopped listening on port 43965
+1623404546394	Marionette	INFO	Stopped listening on port 34951
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623404547853	Marionette	INFO	Stopped listening on port 42221
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1043"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1043:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:620:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1043, column: 0
+console.error: ({})
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1142:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1367:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1090:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:623:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:729:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1142, column: 1
+console.error: (new TypeError("undefined has no properties", "resource://devtools/server/actors/network-monitor/network-observer.js", 1142))
+1623404618226	geckodriver	INFO	Listening on 127.0.0.1:51143
+1623404618232	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZEuURN"
+1623404618858	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZEuURN/search.json.mozlz4", (void 0)))
+1623404620214	Marionette	INFO	Listening on port 46531
+1623404620253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623404624424	Marionette	INFO	Stopped listening on port 43725
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623404699172	geckodriver	INFO	Listening on 127.0.0.1:60737
+1623404699180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0X34Hi"
+1623404699803	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0X34Hi/search.json.mozlz4", (void 0)))
+1623404701194	Marionette	INFO	Listening on port 43587
+1623404701303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623404704054	Marionette	INFO	Stopped listening on port 46531
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623404792685	Marionette	INFO	Stopped listening on port 43587
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623404794940	geckodriver	INFO	Listening on 127.0.0.1:60657
+1623404794949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRrXS3O"
+1623404795578	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRrXS3O/search.json.mozlz4", (void 0)))
+1623404796973	Marionette	INFO	Listening on port 44469
+1623404797070	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/static/bundles/es6/DirectMQTT.js/5a4f7fdf9100.js, line 17: Error: Publish Timed Out
+JavaScript error: https://www.instagram.com/static/bundles/es6/DirectMQTT.js/5a4f7fdf9100.js, line 17: Error: Publish Timed Out
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://python-scripts.com/wp-admin/js/color-picker.min.js, line 2: ReferenceError: wp is not defined
+1623405109451	geckodriver	INFO	Listening on 127.0.0.1:45197
+1623405109453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelUjXYa"
+1623405110050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelUjXYa/search.json.mozlz4", (void 0)))
+1623405111479	Marionette	INFO	Listening on port 33661
+1623405111579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623405431376	Marionette	INFO	Stopped listening on port 44469
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623405432976	Marionette	INFO	Stopped listening on port 33661
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
